@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import asyncio
 import socket
 import urllib.parse
@@ -8,7 +6,6 @@ import collections
 import time
 import datetime
 import hmac
-import base64
 import hashlib
 import random
 import binascii
